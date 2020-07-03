@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P4lZBaLxR6kWRa0rv/juc2ZJiPxHq1XiV0cAN93Z81tiJYurk/tRMoBPzSzIj4KfOP3kHvzpL8PpHRD4NsifcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\laeti\\Documents\\informatique_crm_mulhouse\\qualifiante_CDA\\Developpement_VSCore\\ConsoleApplicationVSCore\\ProjetConsoleApplicationVSCore\\ProjetConsoleApplicationVSCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laeti\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
