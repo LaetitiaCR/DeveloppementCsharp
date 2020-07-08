@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laeti\\Documents\\informatique_crm_mulhouse\\qualifiante_CDA\\Developpement_VSCore\\ConsoleApplicationVSCore\\ProjetConsoleApplicationVSCore\\ProjetConsoleApplicationVSCore.csproj",
+      "projectUniqueName": "C:\\Users\\laeti\\Documents\\informatique_crm_mulhouse\\qualifiante_CDA\\Developpement_VSCore\\ConsoleApplicationVSCore\\DeveloppementCsharp\\ProjetConsoleApplicationVSCore\\ProjetConsoleApplicationVSCore.csproj",
       "projectName": "ProjetConsoleApplicationVSCore",
-      "projectPath": "C:\\Users\\laeti\\Documents\\informatique_crm_mulhouse\\qualifiante_CDA\\Developpement_VSCore\\ConsoleApplicationVSCore\\ProjetConsoleApplicationVSCore\\ProjetConsoleApplicationVSCore.csproj",
+      "projectPath": "C:\\Users\\laeti\\Documents\\informatique_crm_mulhouse\\qualifiante_CDA\\Developpement_VSCore\\ConsoleApplicationVSCore\\DeveloppementCsharp\\ProjetConsoleApplicationVSCore\\ProjetConsoleApplicationVSCore.csproj",
       "packagesPath": "C:\\Users\\laeti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laeti\\Documents\\informatique_crm_mulhouse\\qualifiante_CDA\\Developpement_VSCore\\ConsoleApplicationVSCore\\ProjetConsoleApplicationVSCore\\obj\\",
+      "outputPath": "C:\\Users\\laeti\\Documents\\informatique_crm_mulhouse\\qualifiante_CDA\\Developpement_VSCore\\ConsoleApplicationVSCore\\DeveloppementCsharp\\ProjetConsoleApplicationVSCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
